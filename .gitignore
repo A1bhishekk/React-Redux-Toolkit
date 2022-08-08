@@ -1,2 +1,4 @@
 
 node_modules
+git push -u origin main
+git remote add origin https://github.com/A1bhishekk/React-Redux-Toolkit.git
